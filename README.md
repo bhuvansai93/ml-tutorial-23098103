@@ -9,7 +9,7 @@ This project demonstrates how the depth of a Decision Tree affects its performan
 
 - `code-ml-tutorial-23098103.ipynb` – Jupyter Notebook with full implementation
 - `plots/` – All visualizations used in the tutorial
-- `tutorial.pdf` – Written explanation (if not in notebook)
+- `decison-trees-tutorial-23098103.pdf` – Written explanation (if not in notebook)
 - `README.md` – This file
 - `LICENSE` – Open-source license (MIT)
 
