@@ -37,8 +37,8 @@ This project demonstrates how the depth of a Decision Tree affects its performan
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/bhuvansai93/code_ml_tutorial_23098103.git
-   cd code_ml_tutorial_23098103
+   git clone https://github.com/bhuvansai93/ml-tutorial-23098103.git
+   cd ml-tutorial-23098103
 
 2. Install dependencies
   (We recommend using a virtual environment)
