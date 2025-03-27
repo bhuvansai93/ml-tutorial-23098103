@@ -7,7 +7,7 @@ This project demonstrates how the depth of a Decision Tree affects its performan
 
 ## 📁 Project Structure
 
-- `code-ml-tutorial-23098103.ipynb` – Jupyter Notebook with full implementation
+- `code_ml_tutorial_23098103.ipynb` – Jupyter Notebook with full implementation
 - `plots/` – All visualizations used in the tutorial
 - `decison-trees-tutorial-23098103.pdf` – Written explanation (if not in notebook)
 - `README.md` – This file
@@ -37,8 +37,8 @@ This project demonstrates how the depth of a Decision Tree affects its performan
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/bhuvansai93/code-ml-tutorial-23098103.git
-   cd code-ml-tutorial-23098103
+   git clone https://github.com/bhuvansai93/code_ml_tutorial_23098103.git
+   cd code_ml_tutorial_23098103
 
 2. Install dependencies
   (We recommend using a virtual environment)
@@ -46,4 +46,4 @@ This project demonstrates how the depth of a Decision Tree affects its performan
     pip install -r requirements.txt
 3. Run the notebook
     ```bash
-    jupyter notebook decision_tree_depth.ipynb
+    jupyter notebook code_ml_tutorial_23098103.ipynb
