@@ -40,4 +40,13 @@ This project demonstrates how the depth of a Decision Tree affects its performan
    git clone https://github.com/your-username/code-ml-tutorial-23098103.git
    cd code-ml-tutorial-23098103
 
+2. Install dependencies
+(We recommend using a virtual environment)
+```bash
+pip install -r requirements.txt
+
+3. Run the notebook
+```bash
+jupyter notebook decision_tree_depth.ipynb
+
    
